@@ -258,32 +258,62 @@ Github-prosjeket mitt heter [smoky-view](https://github.com/ottopaulsen/smoky-vi
 
 Her skal du kunne finne det meste av viktig informasjon jeg har brukt.
 
+
 [AngularFire2](https://github.com/angular/angularfire2)
+
 [Angular](https://angular.io/)
+
 [Arduino client for MQTT](http://pubsubclient.knolleary.net/index.html)
+
 [Arduino](https://www.arduino.cc/)
+
 [CH340 driver](https://www.wemos.cc/downloads/) som du trenger for å programmere NodeMCU
+
 [CloudMQTT](https://www.cloudmqtt.com/)
+
 [DHT22 Datablad](https://www.sparkfun.com/datasheets/Sensors/Temperature/DHT22.pdf)
+
 [DHT22 Library](http://playground.arduino.cc/Main/DHTLib)
+
 [Firebase](https://firebase.google.com/)
+
 [Heroku](https://www.heroku.com/)
+
 [Homebridge](https://github.com/nfarina/homebridge)
+
 [Homekit](http://www.apple.com/ios/home/)
+
 [Homie convention](https://github.com/marvinroger/homie) (Litt interessant, men ikke viktig her.)
+
 [Integrering med Homekit](https://github.com/Itema-as/smoky/blob/master/doc/Homekit.md)
+
 [Itema as](http://itema.no/)
+
 [MQ-2](http://www.instructables.com/id/How-to-use-MQ2-Gas-Sensor-Arduino-Tutorial/)
+
 [MQTT](http://mqtt.org/)
+
 [Mosquitto](https://mosquitto.org/)
+
 [Node-RED ThingSpeak node](https://github.com/clough42/node-red-contrib-thingspeak42)
+
 [Node-RED](http://nodered.org/)
+
 [NodeMCU](https://github.com/nodemcu/nodemcu-devkit)
-[OTA Update av ESP8266](http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota_updates.html) Jeg bruker [Web browser varianten](http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota_updates.html#web-browser)
+
+[OTA Update av ESP8266](http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota_updates.html) Jeg bruker [Web 
+browser varianten](http://esp8266.github.io/Arduino/versions/2.0.0/doc/ota_updates/ota_updates.html#web-browser)
+
 [PID Introduksjon](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/)
+
 [PID Library](http://playground.arduino.cc/Code/PIDLibrary) for Arduino
+
 [Raspberry Pi](https://www.raspberrypi.org/)
+
 [Røyking av mat på Facebook](https://www.facebook.com/groups/roykingavmat/)
+
 [ThingSpeak](https://thingspeak.com/)
+
 [Ubuntu Mate](https://ubuntu-mate.org/)
+
 [WeeWX](http://www.weewx.com/)
