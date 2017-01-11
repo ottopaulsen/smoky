@@ -1,6 +1,13 @@
 # Smoky
 
-Smoky er røykskapet mitt. Det inneholder litt mer teknoogi enn de fleste hobbyrøykskap. Her vil jeg beskrive hvordan jeg har laget det, slik at de som vil, kan gjøre det samme, eller videreutvikle egne varianter.
+Smoky er røykskapet mitt. Det inneholder litt mer teknologi enn de fleste hobbyrøykskap. Her vil jeg beskrive hvordan jeg har laget det, slik at de som vil, kan gjøre det samme, eller videreutvikle egne varianter.
+
+Under-prosjekt:
+
+* [smoky-box](https://github.com/ottopaulsen/smoky-box)
+* [smoky-view](https://github.com/ottopaulsen/smoky-view)
+* [smoky-node-red](https://github.com/ottopaulsen/smoky-node-red)
+
 
 Jeg vil presisere at dette ikke er en byggebeskrivelse, og om du ønsker å kopiere noe, så gjør gjerne det, men på eget ansvar. Jeg tar ikke ansvar for eventuelle feil, og heller ikke for eventuelle problemer som andre måtte få av å kopiere min løsning.
 
